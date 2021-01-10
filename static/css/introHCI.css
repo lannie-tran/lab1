@@ -16,6 +16,14 @@ body {
      padding: 20px;
 }
 
+.project{
+     margin-left: 20px;
+}
+
+.introduction{
+     font-family: Inter, Helvetica, sans-serif;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
